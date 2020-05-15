@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212674730949",
+    "firebase_url": "https://e-commerce-app-20d0b.firebaseio.com",
+    "project_id": "e-commerce-app-20d0b",
+    "storage_bucket": "e-commerce-app-20d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212674730949:android:1b1940d14aa93159a609ac",
+        "android_client_info": {
+          "package_name": "io.simstech.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212674730949-5evf48idhbgkikd5ekr7km5o174clfin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiBCBTMYH9YM2miC5kxu2VjuCxpzNazB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212674730949-5evf48idhbgkikd5ekr7km5o174clfin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
